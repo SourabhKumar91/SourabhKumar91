@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sourabh Kumar
 
-👨‍💼 AVP | IT & Data Scientist  
+👨‍💼 Data Scientist | IT & Data Scientist  
 📈 Over 11 Years of Experience in Software & AI  
 🌐 Passionate about building solutions in Cloud, Data, and Web
 
