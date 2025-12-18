@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Sourabh Kumar
 
-<!--
-**SourabhKumar91/SourabhKumar91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💼 AVP | IT & Data Scientist  
+📈 Over 11 Years of Experience in Software & AI  
+🌐 Passionate about building solutions in Cloud, Data, and Web
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Python, SQL, Git & GitHub
+- Data Science & Machine Learning
+- Cloud Platforms (Azure / AWS)
+- Project Leadership & Agile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Enhancing my personal AI dashboard
+- Sharing project tutorials
+
+### 📫 Connect
+- Linkedin: https://www.linkedin.com/in/sourabhjasuja
+- Portfolio: https://example.com
+
+Thanks for visiting! 🚀
